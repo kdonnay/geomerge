@@ -9,5 +9,6 @@ Description: Geospatial data integration framework that merges raster, spatial p
 License: LGPL-3
 Depends: R (>= 3.21)
 Imports: sp, spdep, raster, terra, sf, geosphere, lubridate, methods, stats, ggplot2, gridExtra, scales
+URL: https://github.com/kdonnay/geomerge
 NeedsCompilation: no
 
